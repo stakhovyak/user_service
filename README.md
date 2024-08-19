@@ -10,4 +10,6 @@ It is still in development
 - ? Implement dto classes ?
 - Dockerize
 - Connect to database (use docker)
+- TEST OF COURSE (maybe even with spock??)
 - [In Future] connect tracers, validators?
+
